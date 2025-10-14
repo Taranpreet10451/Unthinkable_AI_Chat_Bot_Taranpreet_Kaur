@@ -318,7 +318,3 @@ Security
 ## License
 
 This project is open source and available under the MIT License.
-
----
-
-**Built with ❤️ for Unthinkable Solutions**
