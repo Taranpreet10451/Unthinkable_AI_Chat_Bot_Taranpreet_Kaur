@@ -1,0 +1,7 @@
+flask==3.0.0
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+pandas>=2.0.0
+gradio==4.44.0
+requests==2.31.0
+Flask-Cors>=4.0.0
